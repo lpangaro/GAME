@@ -34,7 +34,7 @@
 ![](https://github.com/lpangaro/GAME/blob/main/img/globo3.png)
 ![](https://github.com/lpangaro/GAME/blob/main/img/medusa.png)
 
-### Pez que resta 20 Puntos:
+### El Pez Abisal resta 20 Puntos:
 ![](https://github.com/lpangaro/GAME/blob/main/img/abisal.png)
 
 ### El juego se gana caundo se consiguen 150 puntos o se pierde cunado comes un tiburon
