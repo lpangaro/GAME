@@ -1,0 +1,12 @@
+import wollok.game.*
+import example.*
+
+
+program ejemplo {
+  game.width(10)
+  game.height(5)
+  game.cellSize(50)
+  game.boardGround("fondo.png")
+  game.title("Sheldon Eats")
+  game.start()  
+}
