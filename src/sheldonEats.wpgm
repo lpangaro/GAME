@@ -1,0 +1,26 @@
+import wollok.game.*
+import protagonista.*
+import peces.*
+
+program sheldonEats {
+	
+	// Configuración 
+	
+	game.title("Sheldon Eats")
+	game.width(12)
+  	game.height(6)
+  	game.cellSize(209)
+  	game.boardGround("fondo.png")
+  	
+  	// Visuales
+  	
+  	game.addVisual(sheldon)
+  	game.addVisual(pez10R)
+  	game.addVisual(pez10A)
+  	game.addVisual(pez10V)
+
+	// Inicio
+
+	game.start()  
+  
+}
